@@ -1,0 +1,16 @@
+C:\Users\Ahmed\Desktop\HRSystem\HRSystem\bin\Debug\HRSystem.exe.config
+C:\Users\Ahmed\Desktop\HRSystem\HRSystem\bin\Debug\HRSystem.exe
+C:\Users\Ahmed\Desktop\HRSystem\HRSystem\bin\Debug\HRSystem.pdb
+C:\Users\Ahmed\Desktop\HRSystem\HRSystem\obj\Debug\HRSystem.csproj.AssemblyReference.cache
+C:\Users\Ahmed\Desktop\HRSystem\HRSystem\obj\Debug\HRSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ahmed\Desktop\HRSystem\HRSystem\obj\Debug\HRSystem.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\Desktop\HRSystem\HRSystem\obj\Debug\HRSystem.exe
+C:\Users\Ahmed\Desktop\HRSystem\HRSystem\obj\Debug\HRSystem.pdb
+D:\HRSystem\HRSystem\bin\Debug\HRSystem.exe.config
+D:\HRSystem\HRSystem\bin\Debug\HRSystem.exe
+D:\HRSystem\HRSystem\bin\Debug\HRSystem.pdb
+D:\HRSystem\HRSystem\obj\Debug\HRSystem.csproj.AssemblyReference.cache
+D:\HRSystem\HRSystem\obj\Debug\HRSystem.csproj.SuggestedBindingRedirects.cache
+D:\HRSystem\HRSystem\obj\Debug\HRSystem.csproj.CoreCompileInputs.cache
+D:\HRSystem\HRSystem\obj\Debug\HRSystem.exe
+D:\HRSystem\HRSystem\obj\Debug\HRSystem.pdb
